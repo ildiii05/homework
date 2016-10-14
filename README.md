@@ -41,4 +41,11 @@ Az adminisztrátornak lehetősége van bármely beküldött helyszínt módosít
 <li>Megbízhatóság: jelszóval védett funkciók</li>
 </ul>
 
+<p><i>Szakterületi fogalomjegyzék </i><p>
+<ul>
+<li><b>Nehézség:</b> túrák osztályozása fizikai szükséglet szerint. <br>
+Például egy hegyvidéki kilátó több ponttal rendelkezik mint egy kis túraútvonal a völgyben</li>
+<li><b>Jelleg:</b> a nevezetesség csoportosítása célcsoport, tematika szerint  <br>
+Például megkülönböztet tanösvényeket, múzeumokat, szabadidős programokat</li>
+</ul>
 
