@@ -7,7 +7,7 @@
 <p> Az alkalmazás célja megjeleníteni a felhasználók által beküldött látványosságok adatait.  
 Az adatok védelme érdekében lehetőség van regisztrációra, majd bejelentkezésre. 
 Bejelentkezett felhasználó új helyszíneket adhat hozzá a már meglévőkhöz, lehetősége van értékelni a mások által beküldött helyszíneket, 
-valamint önmaga által beküldötteket módosítani, törölni.
+valamint az önmaga által beküldötteket módosítani, törölni.
 Az adminisztrátornak lehetősége van bármely beküldött helyszínt módosítani, vagy akár törölni.</p>
 <p><i> Funkcionális követelmények </i></p>
 <ul>
@@ -29,8 +29,8 @@ Az adminisztrátornak lehetősége van bármely beküldött helyszínt módosít
 </li>
 <li>Admin felhasználó által elérhető funkciók
 <ul>
-<li>Látványosságok törlése</li>
-<li>Összes látványosság adatainak módosítása</li>
+<li>Bármely látványosságok törlése</li>
+<li>Bármely látványosság adatainak módosítása</li>
 <li>Új látványosság hozzáadása</li>
 </ul>
 </li>
@@ -53,6 +53,6 @@ Például megkülönböztet tanösvényeket, múzeumokat, szabadidős programoka
 <p><i>Használatieset-modell, funkcionális követelmények</i></p>
 <p><b>Vendég</b>: Csak a publikus oldalakt éri el: főoldal, bejelentkezés, regisztráció <br>
 <b>Bejelentkezett felhasználó</b>: A publikos oldalak elérésén kívül egyéb funkciókhoz is hozzájuz: új nevezetesség felvétele, meglévő nevezetesség törlése/módosítása/értékelése<br>
-<b>Bejelentkezett adminisztrátor</b>: Bármelyik nevezetességet módosíthatja, törölheti vagy új látványosságok vehet fel. </p>
+<b>Bejelentkezett adminisztrátor</b>: Bármelyik nevezetességet módosíthatja, törölheti vagy új látványosságokat vehet fel. </p>
 
 <img src="./images/usecase.png">
