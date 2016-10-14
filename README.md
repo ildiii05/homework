@@ -51,8 +51,8 @@ Például megkülönböztet tanösvényeket, múzeumokat, szabadidős programoka
 
 
 <p><i>Használatieset-modell, funkcionális követelmények</i></p>
-<p><b>Vendég</b>: Csak a publikus oldalakt éri el: főoldal, bejelentkezés, regisztráció <br>
-<b>Bejelentkezett felhasználó</b>: A publikos oldalak elérésén kívül egyéb funkciókhoz is hozzájuz: új nevezetesség felvétele, meglévő nevezetesség törlése/módosítása/értékelése<br>
+<p><b>Vendég</b>: Csak a publikus oldalakat éri el: főoldal, bejelentkezés, regisztráció <br>
+<b>Bejelentkezett felhasználó</b>: A publikus oldalak elérésén kívül egyéb funkciókhoz is hozzájut: új nevezetesség felvétele, meglévő nevezetesség törlése/módosítása/értékelése<br>
 <b>Bejelentkezett adminisztrátor</b>: Bármelyik nevezetességet módosíthatja, törölheti vagy új látványosságokat vehet fel. </p>
 
 <img src="./images/usecase.png">
