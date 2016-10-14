@@ -29,7 +29,7 @@ Az adminisztrátornak lehetősége van bármely beküldött helyszínt módosít
 </li>
 <li>Admin felhasználó által elérhető funkciók
 <ul>
-<li>Bármely látványosságok törlése</li>
+<li>Bármely látványosság törlése</li>
 <li>Bármely látványosság adatainak módosítása</li>
 <li>Új látványosság hozzáadása</li>
 </ul>
