@@ -49,3 +49,10 @@ Például egy hegyvidéki kilátó több ponttal rendelkezik mint egy kis túra�
 Például megkülönböztet tanösvényeket, múzeumokat, szabadidős programokat</li>
 </ul>
 
+
+<p><i>Használatieset-modell, funkcionális követelmények</i></p>
+<p><b>Vendég</b>: Csak a publikus oldalakt éri el: főoldal, bejelentkezés, regisztráció <br>
+<b>Bejelentkezett felhasználó</b>: A publikos oldalak elérésén kívül egyéb funkciókhoz is hozzájuz: új nevezetesség felvétele, meglévő nevezetesség törlése/módosítása/értékelése<br>
+<b>Bejelentkezett adminisztrátor</b>: Bármelyik nevezetességet módosíthatja, törölheti vagy új látványosságok vehet fel. </p>
+
+<img src="./images/usecase.png">
