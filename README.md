@@ -5,10 +5,7 @@ Készítette: Madák Ildikó
 
 ###1. Követelményanalízis
 ####1.1 Célkitűzés
-Az alkalmazás célja megjeleníteni a felhasználók által beküldött látványosságok adatait.  
-Az adatok védelme érdekében lehetőség van regisztrációra, majd bejelentkezésre. 
-Bejelentkezett felhasználó új helyszíneket adhat hozzá a már meglévőkhöz, lehetősége van értékelni a mások által beküldött helyszíneket, 
-valamint az önmaga által beküldötteket módosítani, törölni.
+Az alkalmazás célja megjeleníteni a felhasználók által beküldött látványosságok adatait. Az adatok védelme érdekében lehetőség van regisztrációra, majd bejelentkezésre. Bejelentkezett felhasználó új helyszíneket adhat hozzá a már meglévőkhöz, lehetősége van értékelni a mások által beküldött helyszíneket, valamint az önmaga által beküldötteket módosítani, törölni.
 Az adminisztrátornak lehetősége van bármely beküldött helyszínt módosítani, vagy akár törölni.
 
 ####Funkcionális követelmények
