@@ -42,4 +42,4 @@ Például megkülönböztet tanösvényeket, múzeumokat, szabadidős programoka
 - **Bejelentkezett felhasználó:** A publikus oldalak elérésén kívül egyéb funkciókhoz is hozzájut: új nevezetesség felvétele, meglévő nevezetesség törlése/módosítása/értékelése
 - **Bejelentkezett adminisztrátor:** Bármelyik nevezetességet módosíthatja, törölheti vagy új látványosságokat vehet fel.
 
-![](docs/images/usecase.png)
+![](./images/usecase.png)
