@@ -40,3 +40,14 @@ Például megkülönböztet tanösvényeket, múzeumokat, szabadidős programoka
 - **Bejelentkezett adminisztrátor:** Bármelyik nevezetességet módosíthatja, törölheti vagy új látványosságokat vehet fel.
 
 ![](./images/usecase.png)
+
+Egy folyamat szemléltetése:
+**Meglévő látványosság szerkesztése: **
+1. A felhasználó az oldalon bejelentkezik, ha nincs regisztrálva akkor regisztrál.
+2. Bejelentkezés után megtekintheti az általa hozzáadott látványosságokat.
+3. Kiválaszt egyet, ehhez megnyomja a "Megtekintés" feliratú gombot.
+4. A megtekintés oldalon kiválaszthatja a "Szerkesztés" gombot
+5. A szerkesztés oldalon módosíthatja a leírást.
+6. "Mentés" gombra kattintva elmenti a változásokat.
+
+![](./images/session.png)
