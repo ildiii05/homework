@@ -41,8 +41,10 @@ Például megkülönböztet tanösvényeket, múzeumokat, szabadidős programoka
 
 ![](./images/usecase.png)
 
-#####Egy folyamat szemléltetése:
+Egy folyamat szemléltetése:
+
 **Meglévő látványosság szerkesztése:**
+
 1. A felhasználó az oldalon bejelentkezik, ha nincs regisztrálva akkor regisztrál
 2. Bejelentkezés után megtekintheti az általa hozzáadott látványosságokat
 3. Kiválaszt egyet, ehhez megnyomja a "Megtekintés" feliratú gombot
