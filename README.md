@@ -34,15 +34,15 @@ Például egy hegyvidéki kilátó több ponttal rendelkezik mint egy kis túra�
 - **Jelleg:** a nevezetesség csoportosítása célcsoport, tematika szerint 
 Például megkülönböztet tanösvényeket, múzeumokat, szabadidős programokat
 
-####1.3Használatieset-modell, funkcionális követelmények
+####1.3 Használatieset-modell, funkcionális követelmények
 - **Vendég:** Csak a publikus oldalakat éri el: főoldal, bejelentkezés, regisztráció
 - **Bejelentkezett felhasználó:** A publikus oldalak elérésén kívül egyéb funkciókhoz is hozzájut: új nevezetesség felvétele, meglévő nevezetesség törlése/módosítása/értékelése
 - **Bejelentkezett adminisztrátor:** Bármelyik nevezetességet módosíthatja, törölheti vagy új látványosságokat vehet fel.
 
 ![](./images/usecase.png)
 
-Egy folyamat szemléltetése:
-**Meglévő látványosság szerkesztése: **
+#####Egy folyamat szemléltetése:
+**Meglévő látványosság szerkesztése:**
 1. A felhasználó az oldalon bejelentkezik, ha nincs regisztrálva akkor regisztrál.
 2. Bejelentkezés után megtekintheti az általa hozzáadott látványosságokat.
 3. Kiválaszt egyet, ehhez megnyomja a "Megtekintés" feliratú gombot.
